@@ -46,6 +46,13 @@ Specializing in:
 </p>
 
 ---
+# leetcode
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/gospodin_zerkalo?theme=dark&font=Fira%20Code&ext=heatmap" />
+
+</p>
+---
 
 # connect
 
