@@ -24,8 +24,6 @@ Specializing in:
 
 ---
 
-# tech stack
-
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=go,postgres,mongodb,redis,kafka,docker,kubernetes,grafana,prometheus,gitlab,linux" />
@@ -33,12 +31,9 @@ Specializing in:
 </p>
 
 ---
-# streaks
 <p align="center"> <img src="https://streak-stats.demolab.com/?user=gospodinzerkalo&theme=tokyonight&hide_border=true&background=0D1117" /> </p>
 
 ---
-# contribution graph
-
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gospodinzerkalo&theme=tokyo-night&hide_border=true&bg_color=0d1117" />
@@ -46,13 +41,11 @@ Specializing in:
 </p>
 
 ---
-# leetcode
 <p align="center">
 
 <img src="https://leetcard.jacoblin.cool/gospodin_zerkalo?theme=dark&font=Fira%20Code&ext=heatmap" />
 
 </p>
----
 
 # connect
 
@@ -83,4 +76,3 @@ Session terminated successfully.
 ```
 
 </div>
-```
