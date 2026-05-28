@@ -7,23 +7,6 @@
 
 ---
 
-```bash
-$ whoami
-
-Darkhan Mavlenberdiyev
-
-Backend Engineer with 5+ years of experience
-building fintech and e-commerce systems.
-
-Specializing in:
-- Distributed Systems
-- Event-Driven Architecture
-- Highload Backend Services
-- Infrastructure & Scalability
-````
-
----
-
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=go,postgres,mongodb,redis,kafka,docker,kubernetes,grafana,prometheus,gitlab,linux" />
